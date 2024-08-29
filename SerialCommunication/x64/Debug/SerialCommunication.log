@@ -1,0 +1,3 @@
+﻿  SerialCommunication.cpp
+C:\研修\21.通信制御\SerialCommunication\SerialCommunication\SerialCommunication.cpp(454,9): warning C4267: '引数': 'size_t' から 'DWORD' に変換しました。データが失われているかもしれません。
+  SerialCommunication.vcxproj -> C:\研修\21.通信制御\SerialCommunication\x64\Debug\SerialCommunication.exe
